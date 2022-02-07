@@ -164,7 +164,7 @@ GRAY = (128, 128, 128)
 size = (360, 640)
 screen = pygame.display.set_mode(size)
 
-pygame.display.set_caption("Colotris - Trash Edition")
+pygame.display.set_caption("Colotris")
 
 # Loop
 done = False
